@@ -5,6 +5,7 @@
 
 ### Terminal
 * [iTerm](https://github.com/gnachman/iTerm2)
+* [Git](https://git-scm.com/)
 * [Oh-My-Zsh](https://ohmyz.sh/)
     * [PowerLevel10k theme](https://github.com/romkatv/powerlevel10k)
 * [LSD](https://github.com/Peltoche/lsd)
@@ -23,13 +24,24 @@
 * [Docker](https://www.docker.com/)
 * [Atom](https://atom.io/)
 * [Xdebug](https://gist.github.com/ankurk91/22e4a07be552790a9d6a063ee1bace05)
+* [Node.js](https://nodejs.org/en/)
+
+### Database tools
+* [Mysql Workbench](https://www.mysql.com/fr/products/workbench/)
+* [Mongodb compasse](https://www.mongodb.com/products/compass?lang=fr-fr)
+* [Dbeaver](https://dbeaver.io/)
 
 ### Hacking Tools
 * [GDB - Reverse engeneering](https://www.gnu.org/software/gdb/)
 * [Burp - Web](https://portswigger.net/burp)
 * [Ghidra - Reverse engeneering](https://ghidra-sre.org/)
-* [WhireShark](https://www.wireshark.org/) 
-#### Chat
+* [WhireShark - TCP sniffing](https://www.wireshark.org/)
+### Chat
 * [Telegram](https://telegram.org/)
 * [Keybase](https://keybase.io/)
 * [Slack](https://slack.com/intl/en-ch/?eu_nc=1)
+
+
+### Task Manager
+* [TickTick](https://ticktick.com/)
+* [Trello](https://trello.com/fr)
