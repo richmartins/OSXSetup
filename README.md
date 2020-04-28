@@ -27,9 +27,9 @@
    * config => https://github.com/felixfbecker/vscode-php-debug
    * add
       
-      zend_extension="/usr/local/lib/php/pecl/20190902/xdebug.so"
-      xdebug.remote_enable = 1
-      xdebug.remote_autostart = 1
+    zend_extension="/usr/local/lib/php/pecl/20190902/xdebug.so"
+    xdebug.remote_enable = 1
+    xdebug.remote_autostart = 1
       
 * [Node.js](https://nodejs.org/en/)
 
